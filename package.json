@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-telegram-bot-api": "^0.63.0"
+  },
+  "name": "second-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "bot": "nodemon bot.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
